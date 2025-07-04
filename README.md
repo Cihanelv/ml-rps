@@ -85,7 +85,7 @@ jupyter notebook
 2. Open the main notebook:
 
 ```
-notebooks/rock-paper-scissors.ipynb
+notebooks/notebook4.ipynb
 ```
 
 3. Run all cells (Shift + Enter or Run All)
