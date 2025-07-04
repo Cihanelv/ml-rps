@@ -1,0 +1,5 @@
+As you guided in the Readme.md This is the folder that you will put the data
+With folder name "archive" - Basically when you un-zip here the folder that you will install.
+You are all fine. :)
+
+"https://www.kaggle.com/datasets/drgfreeman/rockpaperscissors" - This is the link.

@@ -1,0 +1,8 @@
+tensorflow
+numpy
+pandas
+matplotlib
+Pillow
+imagehash
+scikit-learn
+scikeras
